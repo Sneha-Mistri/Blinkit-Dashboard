@@ -58,7 +58,9 @@ Evaluate revenue across Outlet Size, Location Tiers (Tier 1, 2, 3), and Outlet T
 By analyzing peak sales drivers, category heads can optimize inventory to ensure top-revenue categories like Fruits & Vegetables and Snack Foods ($0.18M each) remain continuously stocked during high-demand hours. Operations teams can use store-size performance data to guide regional expansions, prioritizing Medium-sized dark stores which delivered the highest total revenue ($507.9K). Marketing teams can capitalize on strong quick-commerce adoption in Tier 3 cities—the top-performing geographical segment at $472.13K in sales—by scaling localized campaigns. Finally, merchandisers can shift product strategy to dedicate nearly two-thirds of shelf space to Low Fat items, catering directly to the strong consumer preference that generated $776.32K in total revenue.
 
 # Snapshot 
-https://github.com/Sneha-Mistri/Blinkit-Dashboard/blob/main/Blinkit_Dashboard_Screenshot.png
+![Dashboard Preview]("https://github.com/user-attachments/assets/f06de788-59cb-41cc-b4d2-8ea623d6c9e9")
+
+
 
 
 
