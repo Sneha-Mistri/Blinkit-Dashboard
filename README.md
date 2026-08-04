@@ -28,10 +28,10 @@ Evaluate revenue across Outlet Size, Location Tiers (Tier 1, 2, 3), and Outlet T
 • Walkthrough of Key Visuals
 
   KPI'S 
-  Total Sales: The overall revenue generated from all items sold.
-  Average Sales: The average revenue per sale.
-  Number of Items: The total count of different items sold.
-  Average Rating: The average customer rating for items sold. 
+  1.Total Sales: The overall revenue generated from all items sold.
+  2.Average Sales: The average revenue per sale.
+  3.Number of Items: The total count of different items sold.
+  4.Average Rating: The average customer rating for items sold. 
 
   Granular Requirements
   1. Total Sales by Fat Content:
