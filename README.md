@@ -27,13 +27,13 @@ Evaluate revenue across Outlet Size, Location Tiers (Tier 1, 2, 3), and Outlet T
 
 • Walkthrough of Key Visuals
 
-  # KPI'S 
+  KPI'S 
   Total Sales: The overall revenue generated from all items sold.
   Average Sales: The average revenue per sale.
   Number of Items: The total count of different items sold.
   Average Rating: The average customer rating for items sold. 
 
-  # Granular Requirements
+  Granular Requirements
   1. Total Sales by Fat Content:
 	Objective: Analyze the impact of fat content on total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
@@ -46,7 +46,7 @@ Evaluate revenue across Outlet Size, Location Tiers (Tier 1, 2, 3), and Outlet T
   4. Total Sales by Outlet Establishment:
 	Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
-  # Chart Requirements 
+  Chart Requirements 
   1. Percentage of Sales by Outlet Size:
 	Objective: Analyze the correlation between outlet size and total sales.
   2. Sales by Outlet Location:
@@ -54,10 +54,11 @@ Evaluate revenue across Outlet Size, Location Tiers (Tier 1, 2, 3), and Outlet T
   3. All Metrics by Outlet Type:
 	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating)   broken down by different outlet types.
 
-🎯 **Business Impact & Insights Summary**
+# Business Impact & Insights Summary
 By analyzing peak sales drivers, category heads can optimize inventory to ensure top-revenue categories like Fruits & Vegetables and Snack Foods ($0.18M each) remain continuously stocked during high-demand hours. Operations teams can use store-size performance data to guide regional expansions, prioritizing Medium-sized dark stores which delivered the highest total revenue ($507.9K). Marketing teams can capitalize on strong quick-commerce adoption in Tier 3 cities—the top-performing geographical segment at $472.13K in sales—by scaling localized campaigns. Finally, merchandisers can shift product strategy to dedicate nearly two-thirds of shelf space to Low Fat items, catering directly to the strong consumer preference that generated $776.32K in total revenue.
 
-
+# Snapshot 
+https://github.com/Sneha-Mistri/Blinkit-Dashboard/blob/main/Blinkit_Dashboard_Screenshot.png
 
 
 
