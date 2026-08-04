@@ -5,11 +5,11 @@ Blinkit Analysis dasboard is comprehensive analysis of Blinkit's sales performan
 The Blinkit Analytics Dashboard provides an end-to-end visual analysis of $1.20M in total sales across 8,523 items. Designed for operations managers, category heads, and retail strategists, this dashboard uncovers revenue drivers, customer preferences (such as Fat Content segmentation), outlet establishment trends, and geographical performance across Tier 1, Tier 2, and Tier 3 cities.
 
 # Tech Stack
-	📊 Power BI Desktop – Used for dashboard layout, custom color palettes, and data visualization.
-	📂 Power Query – Executed data transformation, numeric formatting, handling missing values, and column structuring.
-	🧠 DAX (Data Analysis Expressions) – Applied for dynamic metrics including $1.20M Total Sales, $141 Avg Sales, item 		counts, and average customer rating metrics.
-	📝 Data Modeling – Built a clean data model linking item inventory, outlet metadata, location tiers, and transaction 		metrics.
-	📁 File Format – .pbix (Power BI Report File) & High-Resolution Preview Images.
+📊 Power BI Desktop – Used for dashboard layout, custom color palettes, and data visualization.
+📂 Power Query – Executed data transformation, numeric formatting, handling missing values, and column structuring.
+🧠 DAX (Data Analysis Expressions) – Applied for dynamic metrics including $1.20M Total Sales, $141 Avg Sales, item 		counts, and average customer rating metrics.
+📝 Data Modeling – Built a clean data model linking item inventory, outlet metadata, location tiers, and transaction 		metrics.
+📁 File Format – .pbix (Power BI Report File) & High-Resolution Preview Images.
 
 # Data Source
 Dataset: Blinkit Retail & Sales Operations Dataset.
